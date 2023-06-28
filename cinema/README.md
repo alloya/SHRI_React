@@ -1,3 +1,8 @@
+SHRI_React
+Привет! Чтобы сбилдился проект, пожалуйста, удали старый неиспользуемый компонент в cinema/src/components/app. Не проверила билд перед отправкой :( По всем вопросам и предложениям, пожалуйста, пиши мне в телегу https://t.me/crimson_alloya <3
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
